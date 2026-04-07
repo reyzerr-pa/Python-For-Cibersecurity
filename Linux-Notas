@@ -1,1 +1,3 @@
-
+¿QUe es un Dentries?
+En resumen: un dentry es la representación en memoria de una ruta de archivo que permite al sistema operativo 
+encontrar tus datos rápidamente por su nombre.
