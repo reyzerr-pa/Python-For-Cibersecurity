@@ -23,3 +23,7 @@ amigos = ["tamara", "raquel", "lopez"]
 
 for amigo in amigos:
     print("hola " + amigo)
+
+
+nombre = "Tamara"
+apellido = "Lopez"
