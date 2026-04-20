@@ -4,7 +4,7 @@
 
 def nombre_de_la_funcion(parametros):
     #bloque de codigo
-    return Resultado
+    return resultado
 
 
 #def---> le dice a python que vas a definir una función
