@@ -11,7 +11,7 @@ def multiplicar(a, b):
     return a * b    
  
 resultado = multiplicar (5, 3) + multiplicar (2, 4)
-print(resultado)  # Imprime 15
+print(resultado)  # Imprime el resultado de la suma de las multiplicaciones, que es 23
 #porque 5*3=15 y 2*4=8, entonces 15+8=23
 
 #lo explico: la función multiplicar toma dos argumentos, a y b, y devuelve su producto. Luego,
