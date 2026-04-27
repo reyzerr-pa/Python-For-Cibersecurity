@@ -23,3 +23,33 @@ Practique el uso de operadores abreviados para contadores
 
 
 **** Es un proceso lento pero seguro 
+
+
+# despues estoy agregando lo aprendido en Python con Cursos de Stander y MoureDV
+
+ Módulo 1
+
+
+ Introducción a Python
+
+ Instalación y configuración
+
+ Tu primer programa en Python
+
+ Fundamentos de Python
+
+ Variables
+
+ Operadores
+
+ Estructuras de control
+
+ Bucles/loops
+   
+ Estructuras de datos
+
+ Tuplas
+
+ Diccionarios
+
+ Conjuntos (set)
