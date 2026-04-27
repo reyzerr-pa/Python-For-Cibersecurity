@@ -2,9 +2,12 @@
 #Una función es un bloque de código con nombre que podés ejecutar cuando quieras, las veces que quieras. En vez de repetir el mismo código, lo escribís una vez dentro de una función y lo llamás cuando lo necesitás.
 #Analogía: pensá en una función como una receta. La escribís una vez y la podés usar cada vez que quieras cocinar ese plato, sin reescribirla."""
 
+from unittest import result
+
+
 def nombre_de_la_funcion(parametros):
     #bloque de codigo
-    return resultado
+    return result
 
 
 #def---> le dice a python que vas a definir una función
