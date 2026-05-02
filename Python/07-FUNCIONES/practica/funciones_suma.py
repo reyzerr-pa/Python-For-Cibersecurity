@@ -32,3 +32,11 @@ def multiplicacion(a, b):
 
 # Ejemplo de uso
 print(multiplicacion(5, 3))  # Imprime 15
+
+valorees = [4, 7, 2, 9]
+
+def suma(valores):
+    resultado = sum(valores)
+    return resultado
+
+print(suma(valorees))  # Imprime 22 
